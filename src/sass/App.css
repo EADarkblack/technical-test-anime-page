@@ -1,0 +1,10 @@
+body {
+  background: rgb(33, 24, 39);
+  background: linear-gradient(0deg, rgb(33, 24, 39) 0%, rgb(31, 22, 37) 100%);
+}
+
+.bg-image {
+  position: absolute;
+  z-index: -2;
+  width: 100%;
+}/*# sourceMappingURL=App.css.map */
